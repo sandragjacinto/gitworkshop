@@ -2,4 +2,4 @@
 ## The authors
 ### and date
 
-My master text is in "master" 
+this version is the same article adapted to PNAS requirements 

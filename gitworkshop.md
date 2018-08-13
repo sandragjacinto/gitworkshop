@@ -1,13 +1,5 @@
-Some text in my text file
+# Here is my title
+## The authors
+### and date
 
-gitworkshop textfile
-
-
-
-more changes to see what it happens
-now its added but not commited
-
-git diff
-
-
-new change
+My master text is in "master" 
